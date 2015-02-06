@@ -1,0 +1,18 @@
+{
+    "name": "mamor/php-hipchat",
+    "require": {
+        "php-curl-class/php-curl-class": "2.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mamor",
+            "email": "mamor.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mamor\\": "src/"
+        }
+    }
+}
